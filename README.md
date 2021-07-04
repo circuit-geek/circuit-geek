@@ -1,4 +1,5 @@
 ### Hi there 👋
+<img src = "https://media-exp1.licdn.com/dms/image/C5603AQGEwpdOV8DPMA/profile-displayphoto-shrink_400_400/0/1619056439016?e=1631145600&v=beta&t=hClrqA63b-MI-nB6p3ZbAHTR7jJd0eYsxoXaK56hV5Q">
 Am Gaurav Prasanna, a keen learner and a highly motivated Individual who wishes to pursue a career in Research with focus in Machine learning and Deep Learning, and also have a broad research focus in various State of the Art architectures of various models.
 
 - 🔭 I’m currently working on - Deep Learning And Lifelong Machine Learning
