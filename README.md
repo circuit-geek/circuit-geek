@@ -6,7 +6,7 @@ Am Gaurav Prasanna, a keen learner and a highly motivated Individual who wishes 
 - 👯 I’m looking to collaborate on - Any projects related to Natural Language Processing And Convolutional Neural Networks.
 - 🤔 I’m looking for help with - Understanding Certain Mathematical Concepts of Deep Learning :-).
 - 💬 Ask me about - Machine Learning, happy to help with whatever knowledge and understanding I have😄.
-- 📫 How to reach me - You can reach me on LinkedIn https://www.linkedin.com/in/gaurav-prasanna-12400b191/
+- 📫 How to reach me - You can reach me on <a href = "https://www.linkedin.com/in/gaurav-prasanna-12400b191/"> LinkedIn </a>
 - ⚡ Fun fact - I Love Astronomy and spend almost 1/4th of my day listening to music.
 
 <img src = "https://github-readme-stats.vercel.app/api?username=circuit-geek&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
