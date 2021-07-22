@@ -11,5 +11,5 @@ Am Gaurav Prasanna, a keen learner and a highly motivated Individual who wishes 
 
 <img src = "https://github-readme-stats.vercel.app/api?username=circuit-geek&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
 <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=circuit-geek&layout=compact)](https://github.com/circuit-geek/github-readme-stats">
-<img src = "http://github-readme-streak-stats.herokuapp.com?user=circuit-geek&theme=dark)](https://git.io/streak-stats)">
+<img src = "https://activity-graph.herokuapp.com/graph?username=circuit-geek&theme=dracula">
 
