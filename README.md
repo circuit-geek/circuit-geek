@@ -47,7 +47,7 @@ I'm a passionate and curious learner with a deep interest in **Machine Learning*
 
 ## ✨ Fun Fact
 
-I love astronomy and spend a fair share of my day listening to music — it helps balance the structured logic of code with a bit of cosmic wonder.
+I love astronomy and spend a fair share of my day listening to music.
 
 ---
 
