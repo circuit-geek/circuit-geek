@@ -25,7 +25,7 @@ I'm a passionate and curious learner with a deep interest in **Machine Learning*
 ## 🤝 I'm Open To
 
 - Collaborations on LLM/NLP-based projects or research
-- Contributing to open-source tools around language models
+- Contributing to open-source project
 - Discussions on trends in AI research, tools, and systems
 
 ---
@@ -44,16 +44,3 @@ I'm a passionate and curious learner with a deep interest in **Machine Learning*
 - [LinkedIn](https://www.linkedin.com/in/gaurav-prasanna-12400b191/)
 
 ---
-
-## ✨ Fun Fact
-
-I love astronomy and spend a fair share of my day listening to music.
-
----
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=circuit-geek&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=circuit-geek&layout=compact&theme=dracula" />
-</div>
-
-
