@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Gaurav Prasanna
 
-I'm a passionate and curious learner with a deep interest in **Machine Learning**, **Deep Learning**, and especially the rapidly evolving field of **Large Language Models (LLMs)**. I enjoy exploring the intersection of theory and application — from understanding model architectures to building real-world AI systems.
+I'm a passionate and curious learner with a deep interest in **Machine Learning**, **Deep Learning**, and especially the rapidly evolving field of **Large Language Models (LLMs)**. I enjoy exploring the intersection of theory and application, from understanding model architectures to building real-world AI systems.
 
 ---
 
